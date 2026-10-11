@@ -1,0 +1,7 @@
+bin/
+dist/
+tests-output/
+*.data
+*.zip
+*.pdb
+.env
